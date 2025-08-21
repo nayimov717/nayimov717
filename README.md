@@ -48,18 +48,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov404&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov717&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayimov404&theme=transparent&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayimov717&theme=transparent&show_icons=true&hide_border=true&border_radius=10" alt="Azizbek's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayimov404&theme=transparent&layout=compact&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayimov717&theme=transparent&layout=compact&hide_border=true"  />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nayimov404&label=Profile%20views&color=0e75b6&style=flat" alt="nayimov404" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nayimov717&label=Profile%20views&color=0e75b6&style=flat" alt="nayimov717" /> </p>
 
 
 ---
@@ -67,17 +67,17 @@
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nayimov404">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/nayimov717">LinkedIn</a> | 
   <a href="#">Portfolio</a> | 
-  <a href="nayimov404@gmail.com">Email</a>
+  <a href="nayimov717@gmail.com">Email</a>
 </p>
 
 <!--
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/azykdeveloper/azykdeveloper/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayimov717/nayimov717/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayimov717/nayimov717/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/azykdeveloper/nayimov717/output/github-snake.svg" />
 </picture>
 </p>
 -->
