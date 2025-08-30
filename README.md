@@ -48,8 +48,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov717&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov717&theme=transparent" alt="GitHub Streak" /></a>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov717&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nayimov717&theme=transparent&hide_border=true&currStreakNum=F30A49&fire=F30A49&ring=F30A49" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
